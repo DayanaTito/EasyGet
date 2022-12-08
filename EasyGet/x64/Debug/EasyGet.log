@@ -1,0 +1,3 @@
+﻿  Principal.c
+C:\Users\Dany\source\repos\EasyGet\EasyGet\Principal.c(319,15): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  EasyGet.vcxproj -> C:\Users\Dany\source\repos\EasyGet\x64\Debug\EasyGet.exe
